@@ -56,7 +56,7 @@ def preprocess_test():
 # my_get_paths_train("scraped_train", ".jpg")
 
 
-# preprocess("train")
+preprocess("train")
 preprocess("test")
 # preprocess_train()
     
